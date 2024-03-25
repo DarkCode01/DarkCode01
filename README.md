@@ -6,4 +6,4 @@ With a strong foundation in software development, I bring a wealth of experience
 
 <hr />
 
-[trophy](https://github-profile-trophy.vercel.app/?username=darkcode01)
+![trophy](https://github-profile-trophy.vercel.app/?username=darkcode01)
