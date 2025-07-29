@@ -16,7 +16,7 @@ Open-source, communities, and knowledge sharing are my fuel. Want to talk about 
 #### A bit about me
 - 👨🏽‍💻 I’m currently working on [regalao.com.do](https://www.regalao.com.do).
 - 🌱 I’m currently learning Go and Software Architecture.
-- 🔥 You can know more about me on my [Website](https://josesp.me).
+- 🔥 You can know more about me on my [Website](https://wwww.josesp.me).
 - 🎸 I've been playing guitar in church music band for over three years. check it out
 
 > Always open to learning, teaching, and building solutions that generate real impact.
